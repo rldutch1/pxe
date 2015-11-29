@@ -1,0 +1,10 @@
+
+gpxe-1.0.1+-gpxe.dsk - Floppy boot image.
+gpxe-1.0.1+-gpxe.iso - Normal CDROM boot image.
+gpxe-1.0.1+-gpxe.liso - Legacy CDROM boot image with floppy emulation.
+gpxe-1.0.1+-gpxe.usb - USB stick boot image.
+
+I saw this PXE server in the "gPXE - Modern FOSS Network Booting" video. They booted to it over the Internet. The video URL is on Youtube: https://www.youtube.com/watch?v=GofOqhO6VVM.
+
+PXE Server:
+	http://jake.in.etherboot.org/images/uiboot/uniboot.php?uuid:xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxxbbbb: 00:11:aa:bb:22:cc
