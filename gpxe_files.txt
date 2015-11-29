@@ -8,3 +8,6 @@ I saw this PXE server in the "gPXE - Modern FOSS Network Booting" video. They bo
 
 PXE Server:
 	http://jake.in.etherboot.org/images/uiboot/uniboot.php?uuid:xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxxbbbb: 00:11:aa:bb:22:cc
+
+http://rom-o-matic.net/
+http://etherboot.org/
